@@ -1,14 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Assingment;
 
-/**
- *
- * @author BOSS
- */
+
 public class HotdogRunner {
     public static void main(String[] args){
         Hotdog h1 = new Hotdog(101,0);
